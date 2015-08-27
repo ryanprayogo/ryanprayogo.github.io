@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /private/*
+Allow: /
+
+User-agent: Slurp
+Disallow: /
+
+User-agent: Yahoo Pipes 1.0
+Disallow: /
